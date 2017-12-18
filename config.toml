@@ -1,6 +1,7 @@
 baseURL = "https://polydigital.github.io/"
 languageCode = "en-gb"
 title = "Polydigital Projects"
+theme = "blackburn"
 
 [menu]
   # Shown in the side menu.

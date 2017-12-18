@@ -1,7 +1,6 @@
 ---
 title: "Our Values"
 date: 2017-12-18T10:24:37Z
-draft: true
 ---
 ## Social Good
 We address problems within our society, communities and environment. We deliver alternative solutions for a fairer, safer and sustainable future.
