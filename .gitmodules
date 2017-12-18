@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/polydigital/polydigital.github.io.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
