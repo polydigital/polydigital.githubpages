@@ -1,9 +1,7 @@
 ---
 title: "Wiki Editing"
 date: 2017-12-19T11:13:10Z
-draft: true
 ---
-
 This document describes how to edit the project wiki (this site), it is intended for those who contribute to Polydigital projects and want to post public information about their work.
 
 ## Summary
