@@ -1,6 +1,7 @@
 ---
 title: "Wiki Editing"
 date: 2017-12-19T11:13:10Z
+
 ---
 This document describes how to edit the project wiki (this site), it is intended for those who contribute to Polydigital projects and want to post public information about their work.
 
@@ -17,7 +18,7 @@ This document describes how to edit the project wiki (this site), it is intended
 * Clone the git repo that has all the source content in it:
 
 ~~~
-$ git clone https://github.com/polydigital/polydigital.githubpages.git
+$ git clone --recursive https://github.com/polydigital/polydigital.githubpages.git
 ~~~
 
 * Change into the working (cloned) directory
